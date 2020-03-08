@@ -1,0 +1,13 @@
+body{
+    background: #000 !important;
+    text-align: center;
+  }
+  body .type-write-text{
+      width:100%;
+      position:relative;
+      padding-top:12em;
+  }
+  body .type-write-text *{
+   color:#ffe504;
+   text-decoration: none;
+  }
